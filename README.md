@@ -19,5 +19,10 @@ Each user also has a suggested training plan created by the application
 
 Technologies used: React Native, REST API, Google Firebase.
 
+![startdoing1](https://user-images.githubusercontent.com/56965774/107525131-6ea94280-6bae-11eb-903c-7d5ee38e89c2.png)
+![startdoing2](https://user-images.githubusercontent.com/56965774/107525134-6f41d900-6bae-11eb-94f3-7ca1aab54785.png)
+![startdoing3](https://user-images.githubusercontent.com/56965774/107525136-6f41d900-6bae-11eb-905a-d5fa371c651b.png)
+![startdoing4](https://user-images.githubusercontent.com/56965774/107525138-6fda6f80-6bae-11eb-9800-80ff770edaad.png)
+![startdoing5](https://user-images.githubusercontent.com/56965774/107525140-6fda6f80-6bae-11eb-8e1a-dffa9122a9ed.png)
 
 
